@@ -1,4 +1,7 @@
 The Rainbow
+Red
+Yellow
+Violet
 Purple
 Pink
 Green
